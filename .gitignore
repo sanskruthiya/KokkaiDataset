@@ -1,0 +1,7 @@
+# システムファイル
+.DS_Store
+*/.DS_Store
+
+# 一時ファイル
+*.tmp
+*.temp
